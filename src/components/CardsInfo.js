@@ -2,7 +2,7 @@ import image1 from "../img/educacion_icon.png"
 import image2 from "../img/guias_icon.png"
 import image3 from "../img/vidassabias_icon.png"
 import "./CardsInfo.css"
-import CarouselMain from "./CarouselMain";
+import CarouselMainImages from "./CarouselMainImages";
 
 const images = [
     {
