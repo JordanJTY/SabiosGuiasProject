@@ -10,7 +10,7 @@ From this starting point ICT Students in IES El Rincón will create the VR App.
 <br />
 <div align="center">
   <a href="https://github.com/JordanJTY/SabiosGuiasProject">
-    <img src="https://github.com/JordanJTY/SabiosGuiasProject/blob/ff210fffb7fbf3449471703e33e766089e175a42/public/img/LogoSabiosGuias.png" alt="Logo" width="200" height="80">
+    <img src="public/img/LogoSabiosGuias.png" alt="Logo" width="200" height="80">
   </a>
 </div>
 
@@ -44,6 +44,19 @@ npm start
 
 Enjoy!!!
 
+## Description about main page
+
+The main page show you shortcuts to other page with more information and general information about Sabios Guías Intérpretes.
+
+## Third-party components
+
+I used a caroursel to do my carousel. This I have taked from https://6-4-0--reactstrap.netlify.app/components/carousel/. 
+I used a navbar from https://6-4-0--reactstrap.netlify.app/components/navbar/, the same page of the carousel.
+
+## My components
+
+I create the footer, cards with informations and the video of youtube where you can play it.
+
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - The Editor used in this project
@@ -51,8 +64,10 @@ Enjoy!!!
 * [Leaflet](https://leafletjs.com/) - an open-source JavaScript library for mobile-friendly interactive maps.
 * [react-leaflet](https://react-leaflet.js.org/) - React-Leaflet uses ⚛️ React's lifecycle methods to call the relevant Leaflet handlers, which has a few consequences.
 * [Bootstrap](https://getbootstrap.com) - Bootstrap is a multiplataform library they help you to improve your web design.
+* [Reactstrap](https://reactstrap.github.io/) - Reactstrap is a multiplataform library they help you to improve your web design.
 
 ## Acknowledgments
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/. A Complete Guide to Flexbox.
 * https://zellwk.com/blog/how-to-write-mobile-first-css/. How to write mobile first CSS (Media Queries).
 * https://gist.github.com/PurpleBooth/109311bb0361f32d87a2. A very complete template for README.md files.
+* https://6-4-0--reactstrap.netlify.app/components/carousel/. A page where I use to learn about carousel an other components.
