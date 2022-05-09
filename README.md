@@ -10,7 +10,7 @@ From this starting point ICT Students in IES El Rincón will create the VR App.
 <br />
 <div align="center">
   <a href="https://github.com/JordanJTY/SabiosGuiasProject">
-    <img src="public/img/LogoSabiosGuias.png" alt="Logo" width="200" height="80">
+    <img src="https://github.com/JordanJTY/SabiosGuiasProject/blob/3462e5bb165a3c702bce277e89da99110ec3201c/public/img/LogoSabiosGuias.png" alt="Logo" width="200" height="80">
   </a>
 </div>
 
